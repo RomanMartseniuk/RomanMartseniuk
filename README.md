@@ -1,14 +1,14 @@
 ## Hi there 👋
-I'm Roman, a frontend developer with 1.5+ years of experience in web development.
+I'm Roman, a Full Stack developer with 2+ years of experience in web development.
 
 **Tech stack**:
 - HTML, CSS, SCSS
 - JavaScript, TypeScript
+- Express, NestJS
+- PostgreSQL, SQLite
 - React (SPA, dynamic UIs)
-- State management: React Context, Redux
-- Working with REST APIs
+- TailwindCSS, Shadcn/ui
 
-Currently focusing on improving my React skills, building real-world projects and expanding my frontend stack.
 
 <!--
 **RomanMartseniuk/RomanMartseniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
